@@ -1,0 +1,5 @@
+Download necCDF4:
+    read documentation:
+        it is hosted on a GitHub repository (https://unidata.github.io/netcdf4-python/netCDF4/index.html) where you may access the most up-to-date source.
+
+ex: terminal input: pip install netCDF4
