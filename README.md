@@ -1,1 +1,9 @@
-# Climate_model_analysis
+# Atmospheric Model 3 (AM3)
+AM3 (Donner et al., 2011), the atmospheric component of the GFDL coupled model CM3, was designed with an awareness of key emerging issues in climate science, including aerosol-cloud interactions in climate and climate change, chemistry-climate feedbacks, land and ocean carbon cycles and their interactions with climate change, and decadal prediction.
+More information is available on the [GFDL AM3](https://www.gfdl.noaa.gov/atmospheric-model/) page.
+
+
+The data exploration of the 3-D (latitude, longitude, altitude) cloud ice distributions simulated by AM3 and AM4 climate models are provided to serve as the data basis, developed from the Geophysical Fluid Dynamics Laboratory for more accurate understanding of the cloud ice distribution patterns for the prediction of the climate change as it drastically impacts the Earth’s radiate balance.
+
+# Disclaimer
+The United States Department of Commerce (DOC) GitHub project code is provided on an "as is" basis and the user assumes responsibility for its use. DOC has relinquished control of the information and no longer has responsibility to protect the integrity, confidentiality, or availability of the information. Any claims against the Department of Commerce stemming from the use of its GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
